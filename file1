@@ -230,4 +230,5 @@ git config --global alias.cl "config --list"
 git cl
 
 git config --global --unset alias.cmt  ( to remove alias)
-
+---------------------------------------------------------------------
+this is file 1 in regw. kept some changes
